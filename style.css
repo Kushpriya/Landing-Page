@@ -135,3 +135,11 @@ body {
   color: gray;
   font-size: 19px;
 }
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 30%;
+} 
+
